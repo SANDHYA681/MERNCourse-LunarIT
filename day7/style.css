@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: yellow;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container{
+    margin: 10px 10px;
+}
+
+.container img{
+    width: 40px;
+    height: 40px;
+    border-radius: 60%;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-between;
+}
+
+.parent li{
+    margin: 0 20px;
+}
+
+.parent li a{
+    justify-content: space-between;
+    text-decoration: none;
+}

@@ -1,0 +1,43 @@
+#FirstDivision{
+    width:100px;
+    height:100px;
+    color:red;
+    background-color: aquamarine;
+}
+#SecondDivision{
+    
+    width:100px;
+    height:100px;
+    color:pink;
+    background-color: blueviolet;
+}
+#ThirdDivision{
+    width:100px;
+    height:100px;
+    color:yellow;
+    background-color: beige;
+}
+#FourthDivision{
+    width:100px;
+    height:100px;
+    color:blue;
+    background-color: brown;
+}
+h1{
+    color:brown;
+}
+
+#idh1{
+    color: red;
+}
+
+
+.classHi{
+    color : blue
+}
+#parent{
+    height: 100vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-end;
+}
